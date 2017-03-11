@@ -62,6 +62,11 @@ AD FS management
 * You can now specify existing gMSA (Group Managed Service Account) during AD FS installation.
 * You can now configure SHA-256 as the signature hash algorithm for Azure AD relying party trust.
 
+Password Managment
+* Improved support for persisting idle connections (Password Writeback service)
+* Simplified firewall configuration
+* [More info here](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started#step-3-configure-your-firewall)
+
 ## 1.1.380.0
 Released: December 2016
 
